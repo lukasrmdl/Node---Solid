@@ -1,0 +1,24 @@
+{
+  "name": "node---solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasrmdl/Node---Solid.git"
+  },
+  "keywords": [],
+  "author": "Lukas Raphael ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasrmdl/Node---Solid/issues"
+  },
+  "homepage": "https://github.com/lukasrmdl/Node---Solid#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "typescript": "^4.8.4"
+  }
+}
